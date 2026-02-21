@@ -16,3 +16,4 @@ Original sketch of the logo
 
 ![hand drawn logo](./images/Logo.png)
 
+*Please see images directory for all the images used to design the infographic*
